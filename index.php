@@ -8,14 +8,14 @@
 <body>
 
 	<header>
-		<h1>Website Name</h1>\
+		<h1>Website Name</h1>
 		<link rel="stylesheet" href="css/main.css">
 	</header>
 
 	<nav>
 		<ul>
 			<li><a href="home.php">Home</a></li>
-			<li><a href="about-us.php">Avout Us</a></li>
+			<li><a href="about-us.php">About Us</a></li>
 			<li><a href="products.php">Products</a></li>
 			<li><a href="contact-us.php">Contact Us</a></li>
 			
